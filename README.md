@@ -8,7 +8,7 @@
 
 ## 🧠 Summary
 
-> As always, I consider myself to be a flexible individual with a strong interest in various fields. I have advanced programming knowledge and expertise in computer science, which has developed through practice and technical understanding. I am capable of performing programming tasks with high accuracy.
+> I'm a flexible and driven learner with a strong passion for exploring different fields. While I'm still early in my journey, I've gained solid programming experience and a growing understanding of computer science through hands-on practice. I approach coding challenges with focus and precision, and I'm always working to improve and expand my skills.
 
 ---
 
