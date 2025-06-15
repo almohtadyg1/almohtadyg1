@@ -8,7 +8,7 @@
 
 ## 🧠 Summary
 
-> I'm a flexible and driven learner with a strong passion for exploring different fields. While I'm still early in my journey, I've gained solid programming experience and a growing understanding of computer science through hands-on practice. I approach coding challenges with focus and precision, and I'm always working to improve and expand my skills.
+> I consider myself a flexible and driven learner with a strong passion for exploring different fields. While I'm still early in my journey, I've gained solid programming experience and a growing understanding of computer science through hands-on practice. I approach coding challenges with focus and precision, and I'm always working to improve and expand my skills.
 
 ---
 
