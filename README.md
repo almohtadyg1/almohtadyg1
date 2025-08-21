@@ -36,11 +36,11 @@
 
 ## 🌍 Languages
 
-| Language | Proficiency |
-|----------|-------------|
-| Arabic   | Native      |
-| English  | Fluent      |
-| French   | Beginner    |
+| Language | Proficiency  |
+|----------|--------------|
+| Arabic   | Native       |
+| English  | Fluent       |
+| French   | Intermediate |
 
 ---
 
