@@ -19,7 +19,7 @@
 | Python 🐍  | ✅ Proficient |
 | JavaScript | ✅ Solid      |
 | HTML/CSS   | ✅ Confident  |
-| C++        | 🚧 In Progress |
+| C++        | ✅ Solid |
 
 ---
 
